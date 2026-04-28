@@ -7,7 +7,7 @@
 
 ## TL;DR
 
-A PRISMA-based systematic literature review of privacy-preserving mechanisms in federated learning, analysing how each mechanism class affects FL performance metrics (accuracy, loss, convergence time, utility, communication, computation) and providing a selection guide tailored to application domains.
+A systematic literature review of privacy-preserving mechanisms in federated learning, analysing how each mechanism class affects FL performance metrics (accuracy, loss, convergence time, utility, communication, computation) and providing a selection guide tailored to application domains.
 
 ---
 
@@ -35,7 +35,7 @@ Not applicable — this is a survey, not a system paper. The "artefact" is the t
 - Practitioners lack a structured way to choose a privacy-preserving mechanism given application constraints (e.g. low-latency edge vs. high-stakes healthcare).
 
 ### Main contributions
-- PRISMA-driven systematic review of recent privacy-preserving FL papers.
+- A systematic review of recent privacy-preserving FL papers.
 - Three-way taxonomy: data-level, content-level, and hybrid mechanisms.
 - Mapping of each mechanism class to its impact on accuracy, convergence, communication, and computation.
 - Application-domain-oriented selection guide for researchers and practitioners.
